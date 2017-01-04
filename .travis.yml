@@ -2,7 +2,7 @@ language : cpp
 compiler :
   - clang
 os:
-  -linux
+  - linux
 
 before_install:
-echo $LANG
+  - echo $LANG
