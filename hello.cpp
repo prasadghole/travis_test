@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+in main()
 {
   std::cout << "Hello to travis CI build" << std::endl;
 }
